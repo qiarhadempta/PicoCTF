@@ -53,6 +53,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | DISKO 1 | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/DISKO-1.md) |
 | Flag in Flame | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Flag-in-Flame.md) |
 | Corrupted file | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Corrupted-file.md) |
+| Binary Digits | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Binary-Digits.md) |
 | So Meta | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
 
 ### General Skills
