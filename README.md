@@ -69,6 +69,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Static ain't always noise | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Static-ain't-always-noise.md) |
 | Tab, Tab, Attack | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Tab-Tab-Attack.md) |
 | SUDO MAKE ME A SANDWICH | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/SUDO-MAKE-ME-A-SANDWICH.md) |
+| Password Profiler | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/GeneralSkills/Easy/Password-Profiler.md) |
 
 ### Reverse Engineering
 | Challenge | Difficulty | Writeup |
