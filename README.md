@@ -28,6 +28,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | miniRSA | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/miniRSA.md) | 
 | college-rowing-team | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/college-rowing-team.md) |
 | Play Nice | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/Cryptography/Hard/Play-Nice) |
+| b00tl3gRSA2 | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/b00tl3gRSA2.md) |
 
 ### Web Exploitation
 | Challenge | Difficulty | Writeup |
