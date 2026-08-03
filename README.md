@@ -84,4 +84,4 @@ Note: English is my second language, so I use AI at some point to correct my gra
 ### Binary Exploitation
 | Challenge | Difficulty | Writeup |
 |-----------|------------|---------|
-| Quizplot | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/Binary-Exploitation) |
+| Quizploit | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Binary-Exploitation/Easy/Quizploit.md) |
