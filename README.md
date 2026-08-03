@@ -10,6 +10,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
   - [Forensic](#forensic)
   - [General Skills](#general-skills)
   - [Reverse Engineering](#reverse-engineering)
+  - [Binary Exploitation](#binary-exploitation)
 
 ---
 
@@ -79,3 +80,8 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Safe Opener | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener.md) |
 | Safe Opener 2 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener2.md) |
 | Reverse | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/ReverseEngineering/Medium/Reverse.md) |
+
+### Binary Exploitation
+| Challenge | Difficulty | Writeup |
+|-----------|------------|---------|
+| Quizplot | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/Binary-Exploitation) |
