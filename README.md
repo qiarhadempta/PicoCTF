@@ -58,6 +58,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Corrupted file | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Corrupted-file.md) |
 | Binary Digits | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Easy/Binary-Digits.md) |
 | So Meta | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Forensic/Medium/So-Meta.md) |
+| St3g0 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Forensic/Medium/St3g0.md) |
 
 ### General Skills
 | Challenge | Difficulty | Writeup |
