@@ -81,6 +81,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Safe Opener | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener.md) |
 | Safe Opener 2 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/ReverseEngineering/Medium/Safe-Opener2.md) |
 | Reverse | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/ReverseEngineering/Medium/Reverse.md) |
+| unpackme.py | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/ReverseEngineering/Medium/unpackme.py.md) |
 
 ### Binary Exploitation
 | Challenge | Difficulty | Writeup |
