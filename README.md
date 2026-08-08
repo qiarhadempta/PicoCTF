@@ -26,6 +26,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | Mini RSA | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
 | Crack the Power | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
 | HideToSee | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/HideToSee) |
+| rail-fence | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Medium/rail-fence.md) |
 | miniRSA | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/miniRSA.md) | 
 | college-rowing-team | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Hard/college-rowing-team.md) |
 | Play Nice | ![Hard](https://img.shields.io/badge/Hard-red) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/tree/main/Cryptography/Hard/Play-Nice) |
