@@ -22,6 +22,7 @@ Note: English is my second language, so I use AI at some point to correct my gra
 | EVEN RSA CAN BE BROKEN??? | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Easy/EVEN-RSA-CAN-BE-BROKEN%3F%3F%3F.md) |
 | Substitution 0 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution0.md) |
 | Substitution 1 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/blob/main/Cryptography/Medium/substitution1.md) |
+| Substitution 2 | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF-Write-Up/blob/main/Cryptography/Medium/substitution2.md) |
 | Mind Your Ps and Qs | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mind-Your-Ps-and-Qs) |
 | Mini RSA | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Mini-RSA) |
 | Crack the Power | ![Medium](https://img.shields.io/badge/Medium-orange) | [Link](https://github.com/qiarhadempta/PicoCTF/tree/main/Cryptography/Medium/Crack-the-Power) |
